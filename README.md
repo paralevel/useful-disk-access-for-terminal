@@ -8,3 +8,5 @@ Copy the file 'com.apple.Safari.plist' and paste it into Terminal (press Ctrl-C 
 
 Retry the `defaults` command
 
+The effect is permanent for that specific directory and the specific current user account
+
