@@ -8,4 +8,4 @@ Copy the file 'com.apple.Safari.plist' and paste it into Terminal (press Ctrl-C 
 
 Retry the `defaults` command
 
-Seems to have a permanent effect and also makes all other files and subdirectories in the same directory accessible to the current user, unlike Full Disk Access which goes into effect for all users
+Seems to have a permanent effect and also makes all other files and subdirectories in the same directory accessible, but for the current user only unlike Full Disk Access which goes into effect for all users
