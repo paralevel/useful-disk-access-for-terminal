@@ -4,7 +4,7 @@ If you for example get a `Could not write domain` error when using the `defaults
 
 Open ~/Library/Containers/com.apple.Safari/Data/Library/Preferences/ in Finder (e.g. using `open ~/Library/Containers/com.apple.Safari/Data/Library/Preferences/`)
 
-Copy the file 'com.apple.Safari.plist' and paste it into Terminal (press Ctrl-C to abort afterwards), also has the same effect if you copy the parent folder instead of the plist file
+Copy the file 'com.apple.Safari.plist' and paste it into Terminal (press Ctrl-C to abort afterwards) – also has the same effect if you copy the parent folder instead of the plist file
 
 Retry the `defaults` command
 
